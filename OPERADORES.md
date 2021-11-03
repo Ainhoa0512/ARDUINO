@@ -18,5 +18,14 @@ Si es 0V no se activara
 * depende del hawdred y como este conectado.
 
     
+    
+- EJERCICIO - 
+
+Vamos a conectar 2 botones y 2 leds
+
+Haremos diferentes programas con diferentes comportaciones.
+
+Para poner un boton necesitamon una reistencia 10.000 (ohmnos) estas son als que tienen cuerpo beige y una linea naranja.
+
 
 
