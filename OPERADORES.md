@@ -17,6 +17,6 @@ Si es 0V no se activara
 
 * depende del hawdred y como este conectado.
 
-
+    
 
 
