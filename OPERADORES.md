@@ -19,7 +19,7 @@ Si es 0V no se activara
 
     
     
-- EJERCICIO - 
+- EJERCICIO 1 - 
 
 Vamos a conectar 2 botones y 2 leds
 
