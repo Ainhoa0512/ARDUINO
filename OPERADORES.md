@@ -27,5 +27,6 @@ Haremos diferentes programas con diferentes comportaciones.
 
 Para poner un boton necesitamon una reistencia 10.000 (ohmnos) estas son als que tienen cuerpo beige y una linea naranja.
 
-
+Para poner un LED necesitamos una resistencia de 220 ohmns las de cuerpo azul. Hay que tener en cuenta la polaridades LED.
+La pata mas corta va hacia el GND y la larga hacia el voltage
 
