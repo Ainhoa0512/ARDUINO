@@ -55,4 +55,4 @@ float --> numeros decimales
 Raw sensor value: valores del sensor sin tratar
 
 
-Hemos montado el cirucuito de la lampara, hemso echo el arduino
+Hemos montado el cirucuito de la lampara, hemso echo el arduino y el codigo, al principio no nos funcionava pero luego nos ha funcionado y con los tres botones les hemos dado vueltas y han salido colores
