@@ -47,4 +47,4 @@ String --> cadena de caracteres
 Bool --> bolcano y es verdadero (true) o falso (false)
 chaz --> 1 unico variable
 float --> numeros decimales
-
+a
