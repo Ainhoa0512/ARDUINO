@@ -68,6 +68,7 @@ Esta es la parte que dice a los pines que se enciendan:
  
 ```
 
+
 Hemos montado el cirucuito de la lampara, hemso echo el arduino y el codigo, al principio no nos funcionava pero luego nos ha funcionado y con los tres botones les hemos dado vueltas y han salido colores
 
 Este proyecto necesita 3 fototransistores que detectan la luz, cada fototransistor será un color vamos a tener uno rojo otro azul y otro verde. Dependiendo de la cantidad de luz que detecte el fototransistor será la potencia que brille ese color.
