@@ -43,8 +43,12 @@ Por otro lado un numero entre o y 255
 int= integrez (numero entero) significa que nuestra variable es un tipo de dato numerico no decimal
 Le asigna un espacio en memoria 
 Otros tipos:
+
 String --> cadena de caracteres
+
 Bool --> bolcano y es verdadero (true) o falso (false)
+
 chaz --> 1 unico variable
+
 float --> numeros decimales
-a
+
