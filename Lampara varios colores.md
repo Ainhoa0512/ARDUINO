@@ -52,3 +52,4 @@ chaz --> 1 unico variable
 
 float --> numeros decimales
 
+Raw sensor value: valores del sensor sin tratar
