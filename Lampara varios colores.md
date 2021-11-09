@@ -54,5 +54,20 @@ float --> numeros decimales
 
 Raw sensor value: valores del sensor sin tratar
 
+### Trabajo
+
+[Este es el código](https://github.com/VitasB/ARDUINO-1/blob/main/lampara_de_varios_colores.ino)
+
+Esta es la parte que dice a los pines que se enciendan:
+
+```C++
+
+ analogWrite(redLEDPin, redValue);
+ analogWrite(greenLEDPin, greenValue);
+ analogWrite(blueLEDPin, blueValue);
+ 
+```
 
 Hemos montado el cirucuito de la lampara, hemso echo el arduino y el codigo, al principio no nos funcionava pero luego nos ha funcionado y con los tres botones les hemos dado vueltas y han salido colores
+
+
