@@ -19,12 +19,11 @@ Al conectar el piezo y las otras piezas he escrito el codigo y he añadido otros
 En el codigo he puesto   *Serial.begin(9600);   ,  map(sensorValue, 0,1023,50, 4000);  ,  Serial.println(pitch);   , esto lo que hace es que te va a decir que hace el sensorValue = analogRead(A0);*
 
 
-Snippet es el sonido de las tijeras.
+- Snippet es el sonido de las tijeras.
 
+-Un fragmento de codigo que no funciona por si mismo, que sirve para una funcion concreta.
 
-Un fragmento de codigo que no funciona por si mismo, que sirve para una funcion concreta.
-
-Los snippes se copian, se pegan y, normalmente se adaptan al codigo a mano por le programadore.
+-Los snippes se copian, se pegan y, normalmente se adaptan al codigo a mano por le programadore.
 
 
 
