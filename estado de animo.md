@@ -14,16 +14,19 @@ Despues de que estuviera todo bien montado y sin errores lo problemos y funcion√
 
 Lo que haciamos era que con el potwenciometro moviamos el servimotor con el brazo motor.
 
-```
 
--Materiales necesarios:
 
--Circuito:
+Hemos utilizado estos materiales:
+
+Potenciometro, servimotor con el  brazo motor y un condensador de 100UF
+
+### Circuito:
+
+Conectamos un cable al 5V, colocamos un potenciometro al protoboard y conectamos a un lado los 5V, esto lo que hara es que leera la clavija central y la tomara como una entrada analogica.
+
+La clavija central la conectamos a la clavija analogica 0, esto lo que hace es que controla la posicion del servomotor.
+
+
+
 
 -Foto circuito:
-
-
-
-
-
-
