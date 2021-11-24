@@ -8,6 +8,12 @@ Estos son mis enlaces:
 [1rTrimestre](https://github.com/Ainhoa0512/1erTrimestre)
 
 [Plantilla](https://github.com/Ainhoa0512/ARDUINO/blob/main/PLANTILLA.md)
+
+[OPERADORES](https://github.com/Ainhoa0512/ARDUINO/blob/main/OPERADORES.md)
+
+[Lampara de varios colores](https://github.com/Ainhoa0512/ARDUINO/blob/main/Lampara%20varios%20colores.md)
+
+[medidor de amor](https://github.com/Ainhoa0512/ARDUINO/blob/main/MEDIDOR%20DE%20AMOR.mdvhttps://github.com/Ainhoa0512/ARDUINO/blob/main/OPERADORES.md)
  
  # Errores y excepciones
  
