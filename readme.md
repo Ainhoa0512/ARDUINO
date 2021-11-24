@@ -20,7 +20,7 @@ Estos son mis enlaces:
 [ESTADO DE ANIMO](https://github.com/Ainhoa0512/ARDUINO/blob/main/estado%20de%20animo.md)
 
  
- # Errores y excepciones
+ #### Errores y excepciones
  
 - BUG: Un tipo de error de programa,
 
