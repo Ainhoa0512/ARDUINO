@@ -30,5 +30,10 @@ Toma el piezo y conecta en un lado a la toma de tierra y el otro a la clavija di
 
 Se coloca un fototransistor en la placa de prototipado, conectando el terminal mas largo al 5V, e otro terminal se conecta al pin analogico del Arduino, y la tierra a travs de una resistencia de 10 kilo ohmnios (linea naranja)
 
+He puesto una variante para que al darle al boton que hemos puesto nuevo cuando le des funcione y suene el altavoz
 
+```
+
+ 
+ 
 
