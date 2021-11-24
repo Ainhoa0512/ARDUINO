@@ -54,7 +54,7 @@ He puesto una variante para que al darle al boton que hemos puesto nuevo cuando 
 
 
 
-``
+
 
 //Colocar en la sección de variables globales.
 
@@ -112,4 +112,3 @@ void checkButton(){
 (chechiliaa)
 
 
-```
