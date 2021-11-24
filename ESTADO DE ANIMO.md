@@ -1,6 +1,6 @@
 # ESTADO DE ANIMO
 
-Hemos dibujado en una hoja con flechas los estados de animo para luego con el circuito montado poder moverlo.
+Hemos dibujado en una hoja con flechas los estados de animo para luego con el circuito montado poder moverlo para los estados de animo que hemos escrito.
 
 ````
 
