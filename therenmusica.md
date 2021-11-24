@@ -19,6 +19,17 @@ Al conectar el piezo y las otras piezas he escrito el codigo y he añadido otros
 En el codigo he puesto   *Serial.begin(9600);   ,  map(sensorValue, 0,1023,50, 4000);  ,  Serial.println(pitch);   , esto lo que hace es que te va a decir que hace el sensorValue = analogRead(A0);*
 
 
+Snippet es el sonido de las tijeras.
+
+
+Un fragmento de codigo que no funciona por si mismo, que sirve para una funcion concreta.
+
+Los snippes se copian, se pegan y, normalmente se adaptan al codigo a mano por le programadore.
+
+
+
+
+
  ```
  
  
@@ -40,7 +51,7 @@ He puesto una variante para que al darle al boton que hemos puesto nuevo cuando 
  
 ![143226680-573abe17-3f56-4f0c-9047-0d401395f0c5](https://user-images.githubusercontent.com/90753262/143233908-9aa5f9f7-8091-44dc-889e-04c6c324d6a4.png) 
 
-``
+
 
 //Colocar en la sección de variables globales.
 
@@ -94,6 +105,5 @@ void checkButton(){
 
 }
 
-```
 
 (chechiliaa)
