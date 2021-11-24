@@ -16,7 +16,7 @@ Al conectar el piezo y las otras piezas he escrito el codigo y he añadido otros
 ````
 
 
-En el codigo he puesto  Serial.begin(9600);   ,  map(sensorValue, 0,1023,50, 4000);  ,  Serial.println(pitch);   , esto lo que hace es que 
+En el codigo he puesto   *Serial.begin(9600);   ,  map(sensorValue, 0,1023,50, 4000);  ,  Serial.println(pitch);   , esto lo que hace es que te va a decir que hace el sensorValue = analogRead(A0);
 
 
  ```
