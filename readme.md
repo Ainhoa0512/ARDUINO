@@ -13,7 +13,12 @@ Estos son mis enlaces:
 
 [Lampara de varios colores](https://github.com/Ainhoa0512/ARDUINO/blob/main/Lampara%20varios%20colores.md)
 
-[medidor de amor](https://github.com/Ainhoa0512/ARDUINO/blob/main/MEDIDOR%20DE%20AMOR.mdvhttps://github.com/Ainhoa0512/ARDUINO/blob/main/OPERADORES.md)
+[MEDIDOR DE AMOR](https://github.com/Ainhoa0512/ARDUINO/blob/main/MEDIDOR%20DE%20AMOR.mdvhttps://github.com/Ainhoa0512/ARDUINO/blob/main/OPERADORES.md)
+
+[INTERFAZ NAVE](https://github.com/Ainhoa0512/ARDUINO/blob/main/Interfaz%20de%20nave.md)
+
+[ESTADO DE ANIMO](https://github.com/Ainhoa0512/ARDUINO/blob/main/estado%20de%20animo.md)
+
  
  # Errores y excepciones
  
