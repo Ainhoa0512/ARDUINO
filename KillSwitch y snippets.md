@@ -4,6 +4,8 @@ En el grupo estoy con Joan y vamos a hacer el proyecto medidor de aqmor. A este 
 
 ENLACE CODIGO:
 
+![](https://github.com/Ainhoa0512/ARDUINO/blob/main/love_o_meter.ino)
+
 CODIGO ORIGINAL:
 
 ````
