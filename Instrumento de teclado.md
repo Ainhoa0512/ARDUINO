@@ -47,11 +47,13 @@ void loop(){
   }
 }
 /*
-con estas últimas líneas de código, haremos que suene una nota según qué botón pulsemos, es decir, según qué valor de la lista este activo
+
+
+-Con estas últimas líneas de código, haremos que suene una nota según qué botón pulsemos, es decir, según qué valor de la lista este activo
 */
 
 
-Con este código, y las anteriores conexiones, la simulación en crcuits.io nos da el siguiente resultado:
+-Con este código, y las anteriores conexiones, la simulación en crcuits.io nos da el siguiente resultado:
 
 ```
 
