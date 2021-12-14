@@ -59,12 +59,12 @@ void loop(){
 }
 /*
 
-
+-Con estas últimas líneas de código, haremos que suene una nota según qué botón pulsemos, es decir, según qué valor de la lista este activo
+*/
 
 ```
 
--Con estas últimas líneas de código, haremos que suene una nota según qué botón pulsemos, es decir, según qué valor de la lista este activo
-*/
+
 
 
 [CODIGO](https://github.com/Ainhoa0512/ARDUINO/blob/main/TECLADO.INO)
