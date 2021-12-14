@@ -2,11 +2,22 @@
 
 He montado el circuito del instrumento del teclado.
 
-He puesto 4 interruptores, un piezo y tres resistencias
+Para esta práctica necesitaremos:
+
+    1 Buzzer
+    4 botones
+    2 resistencias de 10 kΩ
+    1 resistencia de 220 Ω
+    1 resistencia de 1 MΩ
+
+En esta práctica, construiremos y programaremos un instrumento similar a un piano, es decir, un circuito que generará diferentes frecuencias según que botones (teclas) pulsemos.
+
+
 
 ### Codigo
 
  El código que usaremos será el siguiente:
+ 
 ```
 
 int buttons[6];
@@ -49,12 +60,11 @@ void loop(){
 /*
 
 
+
+```
+
 -Con estas últimas líneas de código, haremos que suene una nota según qué botón pulsemos, es decir, según qué valor de la lista este activo
 */
 
 
--Con este código, y las anteriores conexiones, la simulación en crcuits.io nos da el siguiente resultado:
 
-```
-
-ER
