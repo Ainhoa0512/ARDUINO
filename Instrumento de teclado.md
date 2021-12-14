@@ -4,7 +4,7 @@ He montado el circuito del instrumento del teclado.
 
 He puesto 4 interruptores, un piezo y tres resistencias
 
-##### Codigo
+### Codigo
 
  El código que usaremos será el siguiente:
 ```
