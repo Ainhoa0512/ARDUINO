@@ -18,7 +18,7 @@ En esta práctica, construiremos y programaremos un instrumento similar a un pia
 
  El código que usaremos será el siguiente:
  
-```
+```c++
 
 int buttons[6];
 //crea una lista con 6 elementos
