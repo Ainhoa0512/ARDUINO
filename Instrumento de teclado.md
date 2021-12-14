@@ -70,4 +70,4 @@ void loop(){
 [CODIGO](https://github.com/Ainhoa0512/ARDUINO/blob/main/TECLADO.INO)
 
 
-En el codigo al ponerlo en funcion huno un problema con </>, teniamos uno en <= 505 y tenia que estar en >=505
+En el codigo al ponerlo en funcion hubo un problema con "</>" , teniamos uno en < = 505 y tenia que estar en > =505
