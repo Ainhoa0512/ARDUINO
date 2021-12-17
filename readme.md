@@ -19,7 +19,7 @@ Estos son mis enlaces:
 
 [ESTADO DE ANIMO](https://github.com/Ainhoa0512/ARDUINO/blob/main/estado%20de%20animo.md)
 
- 
+[INSTRUMENTO DE TECLADO](https://github.com/Ainhoa0512/ARDUINO/blob/main/Instrumento%20de%20teclado.md)
  #### Errores y excepciones
  
 - BUG: Un tipo de error de programa,
