@@ -1,5 +1,7 @@
 # VILLANCICOS DE NAVIDAD
 
+El dia de hoy aprendimos a progamar el arduino de tal manera que pueda tocar una melodia y tambien le aplicamos un kill switch.
+
 
 ```c++
 
@@ -395,3 +397,35 @@ else{
 }
 ```
 
+
+MELODIA
+
+```c++
+
+void tocarMelodia(){
+tocarNota(5,0.75);
+tocarNota(16,0.25);
+tocarNota(5,0.5);
+tocarNota(0,0.5);
+tocarNota(6,0.5);
+tocarNota(5,0.5);
+tocarNota(16,0.5);
+tocarNota(2,0.5);
+tocarNota(5,1);
+tocarNota(16,1);
+tocarNota(5,1);
+tocarNota(-1,1);
+tocarNota(5,0.75);
+tocarNota(16,0.25);
+tocarNota(5,0.5);
+tocarNota(0,0.5);
+tocarNota(6,0.5);
+tocarNota(5,0.5);
+tocarNota(16,0.5);
+tocarNota(2,0.5);
+tocarNota(5,1);
+tocarNota(16,1);
+tocarNota(5,1);
+tocarNota(-1,0.5)
+
+```
