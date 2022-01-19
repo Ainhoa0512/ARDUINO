@@ -9,7 +9,8 @@
     1 botón
     1 resistencia de 10 kΩ
     
-    **Esta practica consiste en controlar con nuestro Arduino un motor que funciona a 9 V, es decir, con un circuito electrónico de 5 V, controlar uno eléctrico de mayos voltaje.**
+   
+   **Esta practica consiste en controlar con nuestro Arduino un motor que funciona a 9 V, es decir, con un circuito electrónico de 5 V, controlar uno eléctrico de mayos voltaje.**
     
     
 ### Usaremos el siguiente código
