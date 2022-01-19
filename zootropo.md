@@ -11,10 +11,7 @@ Necesitaremos los siguientes materiales:
 
 
 ### Usaremos el siguiente código:
-
-``c++
-
-//el puente en H controla el encendido y apagado
+```c++
 const int controlPin1 = 2;
 const int controlPin2 = 3;
 const int enablePin = 9;
@@ -92,6 +89,5 @@ void loop(){
   previousOnOffSwitchState = onOffSwitchState;
 } 
 
-```
 
 
