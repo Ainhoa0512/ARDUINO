@@ -3,8 +3,11 @@
 Energia = potencia > tiempo
 
 E= P·T
+
 P= I V
+
 Potencia= intensidad x Voltaje 
+
 Intensidad= voltaje dividido resistencia
 
 
