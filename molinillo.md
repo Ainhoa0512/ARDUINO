@@ -3,7 +3,7 @@
 
 ##### Para esta práctica harán falta los siguientes elementos:
 
-    1 transistor N-MOSFET
+    1 transistor 
     1 diodo
     1 batería de 9 V
     1 botón
