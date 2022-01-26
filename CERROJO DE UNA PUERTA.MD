@@ -1,5 +1,6 @@
 # CERROJO DE UNA PUERTA
 
+```
 Materiales necesarios:
 
     3 Resistencias de 220Ω.
@@ -10,9 +11,12 @@ Materiales necesarios:
     1 Piezo.
     1 Condensador de 100μF.
     1 Servo motor.
+  ```  
+    
+
+#### El código es:
 
 ```C++
-El código es:
 
 // import the library
 #include <Servo.h>
