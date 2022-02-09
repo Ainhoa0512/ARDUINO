@@ -20,6 +20,18 @@ Estos son mis enlaces:
 [ESTADO DE ANIMO](https://github.com/Ainhoa0512/ARDUINO/blob/main/estado%20de%20animo.md)
 
 [INSTRUMENTO DE TECLADO](https://github.com/Ainhoa0512/ARDUINO/blob/main/Instrumento%20de%20teclado.md)
+
+[CERROJO DE UNA PUERTA](https://github.com/Ainhoa0512/ARDUINO/blob/main/CERROJO%20DE%20UNA%20PUERTA.MD)
+
+[ZOOTROPO][https://github.com/Ainhoa0512/ARDUINO/blob/main/zootropo.md]
+
+[VILLANCICOS DE NAVIDAD](https://github.com/Ainhoa0512/ARDUINO/blob/main/villancicos%20de%20navidad.md)
+
+[MOLINILLO](https://github.com/Ainhoa0512/ARDUINO/blob/main/molinillo.md)
+
+
+
+
  #### Errores y excepciones
  
 - BUG: Un tipo de error de programa,
