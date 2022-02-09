@@ -29,6 +29,8 @@ Estos son mis enlaces:
 
 [MOLINILLO](https://github.com/Ainhoa0512/ARDUINO/blob/main/molinillo.md)
 
+[Reloj de arena](https://github.com/Ainhoa0512/ARDUINO/blob/main/Reloj%20de%20arena%20digital.MD)
+
 
 
 
