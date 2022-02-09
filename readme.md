@@ -23,7 +23,7 @@ Estos son mis enlaces:
 
 [CERROJO DE UNA PUERTA](https://github.com/Ainhoa0512/ARDUINO/blob/main/CERROJO%20DE%20UNA%20PUERTA.MD)
 
-[ZOOTROPO][https://github.com/Ainhoa0512/ARDUINO/blob/main/zootropo.md]
+[ZOOTROPO](https://github.com/Ainhoa0512/ARDUINO/blob/main/zootropo.md)
 
 [VILLANCICOS DE NAVIDAD](https://github.com/Ainhoa0512/ARDUINO/blob/main/villancicos%20de%20navidad.md)
 
