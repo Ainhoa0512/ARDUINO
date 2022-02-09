@@ -8,6 +8,7 @@ Necesitaremos los siguientes materiales:
     1 batería de 9 V
     1 motor
     1 chip H-bridge (puente en H)
+![dadada](https://user-images.githubusercontent.com/90753262/153201762-ee248ea3-387b-4ccc-b957-91f45149fcd4.png)
 
 
 ### Usaremos el siguiente código:
