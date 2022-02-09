@@ -31,7 +31,7 @@ Estos son mis enlaces:
 
 [Reloj de arena](https://github.com/Ainhoa0512/ARDUINO/blob/main/Reloj%20de%20arena%20digital.MD)
 
-
+[Bola de cristal](https://github.com/Ainhoa0512/ARDUINO/blob/main/Bola%20de%20Cristal.md)
 
 
  #### Errores y excepciones
