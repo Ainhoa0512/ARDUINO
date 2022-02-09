@@ -37,3 +37,6 @@ void loop() {
 
 }//Fin de la funcion loop.
 ```
+
+
+![laparatac](https://user-images.githubusercontent.com/90753262/153202306-4f713ed5-00fb-4a1e-b004-40d80e2c75e4.jpeg)
