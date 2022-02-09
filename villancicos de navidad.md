@@ -89,6 +89,8 @@ VILLANCICO CAMBIADO
 
 Cambiemos el villancico porque nos dios error al principio y cambiemos los comandos que dieron error.
 
+Pusimos el primer villancico de navidad que vimos y sonó bien sin ningun error.
+
 ```C++
 int switchStateKill = 0;
 bool isTheButtonBeingPressed = false;
@@ -173,7 +175,8 @@ else{
 
 ## CAMPANA SOBRE CAMPANA
 
-Elegimos esta cancion porque nos guataba el tema de escucharla con el arduino
+Elegimos esta cancion porque nos guataba el tema de escucharla con el arduino y por probar como sonaria si le vamos cambiando los tiempos en lo que suena la melodia.
+La cancion sonó muy bien con el arduino
 
 ```C++
 int switchStateKill = 0;
