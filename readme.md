@@ -33,6 +33,12 @@ Estos son mis enlaces:
 
 [Bola de cristal](https://github.com/Ainhoa0512/ARDUINO/blob/main/Bola%20de%20Cristal.md)
 
+[joystic](https://github.com/Ainhoa0512/ARDUINO/blob/main/JOYSTIC.MD)
+
+[lampara](https://github.com/Ainhoa0512/ARDUINO/blob/main/LAMPARA%20TACTIL.md)
+
+
+
 
  #### Errores y excepciones
  
