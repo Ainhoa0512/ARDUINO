@@ -3,6 +3,8 @@
 El dia de hoy aprendimos a progamar el arduino de tal manera que pueda tocar una melodia y tambien le aplicamos un kill switch.
 
 
+
+
 ```c++
 
 int switchStateKill = 0;
@@ -84,6 +86,8 @@ else{
 
 
 VILLANCICO CAMBIADO
+
+Cambiemos el villancico porque nos dios error al principio y cambiemos los comandos que dieron error.
 
 ```C++
 int switchStateKill = 0;
@@ -168,6 +172,8 @@ else{
 
 
 ## CAMPANA SOBRE CAMPANA
+
+Elegimos esta cancion porque nos guataba el tema de escucharla con el arduino
 
 ```C++
 int switchStateKill = 0;
