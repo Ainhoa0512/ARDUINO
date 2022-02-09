@@ -108,3 +108,7 @@ si el estado cambia de HIGH a LOW es porque la bola se ha movido
 }
 
 ```
+
+
+![31313131](https://user-images.githubusercontent.com/90753262/153201927-84eae916-5603-44e6-bec2-875ef57ec841.jpeg)
+
